@@ -1,10 +1,10 @@
 var cacheName = 'hello-pwa';
 var filesToCache = [
   '/',
-  '/index.html',
-  '/Covid.css',
-  'main.js',
-  '/COVID-19-TRACKER-BY-COUNTRY.htm',
+  '/src/index.html',
+  '/src/style/index.scss',
+  'src/scripts/main.js',
+  
 ];
 
 /* Start the service worker and cache all of the app's content */
